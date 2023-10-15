@@ -1,0 +1,3 @@
+go to your github settings go to developer settings then there will be an AuthorizationWihGithub app that will
+let you copy the client secret and Id that you can past in .env file here. start your server using npm start and
+go to localhost:3000 on google. it will ask you to login and rest is obvious.
